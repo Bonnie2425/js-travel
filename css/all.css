@@ -1,0 +1,55 @@
+.home-wrap .header.bg-cover {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.home-wrap .header .wrap h1 {
+  color: white;
+  margin: 89px 0px 96px;
+}
+.home-wrap .header .wrap .dropdown-toggle {
+  background: rgba(255, 255, 255, 0.7);
+  border: 3px solid #ffffff;
+  border-radius: 3px;
+  font-size: 18px;
+  line-height: 21px;
+  margin-bottom: 79px;
+  width: 452px;
+  padding: 0px 9.5px;
+  height: 48px;
+}
+.home-wrap .header .wrap .popular {
+  background: #ffffff;
+  -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 20px 26px 18px;
+}
+.home-wrap .header .wrap .popular .btn-wrap .btn {
+  margin-top: 0px !important;
+  padding: 11px 34px;
+  margin-right: 23px;
+}
+.home-wrap .header .wrap .line {
+  right: 10%;
+  width: 80%;
+  height: 5px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#559ac8), color-stop(50%, #559ac8), color-stop(50%, transparent));
+  background-image: linear-gradient(to right, #559ac8 0%, #559ac8 50%, transparent 50%);
+  background-size: 9px 2px;
+  background-repeat: repeat-x;
+}
+.home-wrap .content .card .bg-cover {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.home-wrap .content .card .bg-cover .locate {
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+}
+.home-wrap .content .card .bg-cover .locate p {
+  color: white;
+}
